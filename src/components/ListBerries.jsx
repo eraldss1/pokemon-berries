@@ -65,7 +65,7 @@ const ListBerries = (props) => {
 
   return (
     <div className="wrapper">
-      <div className="header">
+      <div className="w-100">
         <h5>Pokemon Berries</h5>
         <p>
           Implementation of :{" "}
